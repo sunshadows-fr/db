@@ -10,5 +10,22 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "albums" :[
+    { "image":"assets/images/albums/sunshine-single.jpg",
+      "year":"2014",
+      "title":"Single - Sunshine",
+      "link": "https://www.deezer.com/fr/album/7803808"
+    },
+    { "image":"assets/images/albums/sunshine-single.jpg",
+      "year":"2014",
+      "title":"Single - Sunshine",
+      "link": "https://www.deezer.com/fr/album/7803808"
+    },
+    { "image":"assets/images/albums/sunshine-single.jpg",
+      "year":"2014",
+      "title":"Single - Sunshine",
+      "link": "https://www.deezer.com/fr/album/7803808"
+    }
+  ]
 }
